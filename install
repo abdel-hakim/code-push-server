@@ -1,0 +1,4 @@
+az webapp ssh --resource-group CGN04-dev-vnet-rg --name CGN04-CodePush-linux
+
+az webapp restart --resource-group CGN04-dev-vnet-rg --name CGN04-CodePush-linux
+
